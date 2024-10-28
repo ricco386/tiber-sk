@@ -5,6 +5,9 @@ categories:
   - DORA
   - TLPT
   - TIBER
+tags:
+  - ECB
+slug: TIBER-EU can be used to fulfil the DORA TLPT requirements
 date: 2024-10-01
 ---
 # TIBER-EU can be used to fulfil the DORA TLPT requirements
