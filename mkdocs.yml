@@ -52,7 +52,10 @@ plugins:
   - privacy
   - search
   - roamlinks
-  - blog
+  - blog:
+      archive: true
+      categories: true
+      pagination: true
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
