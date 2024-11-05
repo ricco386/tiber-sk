@@ -1,4 +1,6 @@
 site_name: Thread Led Penetration Testing (na Slovensku)
+site_url: https://tiber.sk
+site_description: "Information about TIBER, DORA and TLPT."
 
 theme:
     name: 'material'
