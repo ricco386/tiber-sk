@@ -4,6 +4,7 @@ site_description: "Informácie o TIBER, DORA a TLPT."
 
 theme:
     name: 'material'
+    language: sk
     palette:
 
     # Light mode
@@ -23,6 +24,12 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
 
 # Extensions
 markdown_extensions:
