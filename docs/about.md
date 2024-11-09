@@ -1,2 +1,2 @@
-About Us
-TIBER.sk was started by Richard Kellner. Richard is part of the original team at the Národná banka Slovenska that is responsible for DORA implementation in Slovak Republic.
+O nás
+TIBER.sk založilo občianske združenie Vault19 o.z. Členovia Vault19 o.z. majú za sebou celoživotnú kariéru v IT, máme aj člena, ktorý je súčasťou pôvodného tímu v Národnej banke Slovenska, ktorý je zodpovedný za implementáciu DORA v Slovenskej republike.
