@@ -27,6 +27,9 @@ theme:
 
 extra:
   alternate:
+    - name: Slovensky
+      link: /
+      lang: sk
     - name: English
       link: /en/ 
       lang: en
