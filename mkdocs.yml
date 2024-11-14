@@ -63,6 +63,16 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          name: English
+          build: true
+        - locale: sk
+          name: Slovensky
+          default: true
+          build: true
 
 extra_javascript:
   - javascripts/mathjax.js
