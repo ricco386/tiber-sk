@@ -3,9 +3,27 @@ site_url: https://tiber.sk
 site_description: "Informácie o TIBER, DORA a TLPT."
 
 theme:
-    name: 'readthedocs'
+    name: 'material'
     language: sk
     palette:
+
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 # Extensions
 markdown_extensions:
@@ -35,11 +53,23 @@ markdown_extensions:
 
 plugins:
   - search
-  - awesome-pages
   - roamlinks
+  - privacy
+  - blog:
+      archive: true
+      categories: true
+      pagination: true
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
   - i18n:
       docs_structure: suffix
       reconfigure_search: true
+      reconfigure_material: true
       languages:
         - locale: en
           name: English
