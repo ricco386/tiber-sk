@@ -1,15 +1,14 @@
 ---
 authors:
   - richard_kellner
-categories:
+tags:
+  - ECB
   - DORA
   - TLPT
   - TIBER
-tags:
-  - ECB
 slug: TIBER-EU-can-be-used-to-fulfil-the-DORA-TLPT-requirements
 date: 2024-10-01
 ---
-# TIBER-EU can be used to fulfil the DORA TLPT requirements
+# TIBER-EU možno použiť na splnenie požiadaviek DORA TLPT
 
-The TIBER-EU framework can also assist competent authorities and financial entities in meeting the requirements for threat-led penetration tests under the Digital Operational Resilience Act (DORA). See [this publication](https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.miptopical240926.en.pdf) for further information on how adopting the TIBER-EU framework can help fulfil these DORA requirements. 
+Rámec TIBER-EU môže tiež pomôcť príslušným orgánom a finančným subjektom pri plnení požiadaviek na penetračné testy na základe hrozieb podľa zákona o digitálnej prevádzkovej odolnosti (DORA). Ďalšie informácie o tom, ako môže prijatie rámca TIBER-EU pomôcť splniť tieto požiadavky DORA, nájdete v [tejto publikácii](https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.miptopical240926.en.pdf).
