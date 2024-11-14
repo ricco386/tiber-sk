@@ -7,33 +7,6 @@ theme:
     language: sk
     palette:
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-
-extra:
-  alternate:
-    - name: Slovensky
-      link: /
-      lang: sk
-    - name: English
-      link: /en/ 
-      lang: en
-
 # Extensions
 markdown_extensions:
   - footnotes
@@ -62,9 +35,11 @@ markdown_extensions:
 
 plugins:
   - search
+  - awesome-pages
   - roamlinks
   - i18n:
       docs_structure: suffix
+      reconfigure_search: true
       languages:
         - locale: en
           name: English
