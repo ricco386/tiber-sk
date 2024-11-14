@@ -3,7 +3,7 @@ site_url: https://tiber.sk
 site_description: "Informácie o TIBER, DORA a TLPT."
 
 theme:
-    name: 'readthedocs'
+    name: 'gitbook'
     language: sk
     palette:
 
