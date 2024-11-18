@@ -11,4 +11,8 @@ date: 2024-10-01
 ---
 # TIBER-EU možno použiť na splnenie požiadaviek DORA TLPT
 
+Zákon EÚ o digitálnej prevádzkovej odolnosti (DORA), konkrétne návrh RTS o TLPT stanovuje konkrétne požiadavky na penetračné testovanie vedené hrozbami (TLPT). Logicky sa preto ponúka otázka aký je vzťah medzi TIBER-EU a DORA TLPT?
+
+...
+
 Rámec TIBER-EU môže tiež pomôcť príslušným orgánom a finančným subjektom pri plnení požiadaviek na penetračné testy na základe hrozieb podľa zákona o digitálnej prevádzkovej odolnosti (DORA). Ďalšie informácie o tom, ako môže prijatie rámca TIBER-EU pomôcť splniť tieto požiadavky DORA, nájdete v [tejto publikácii](https://www.ecb.europa.eu/press/intro/publications/pdf/ecb.miptopical240926.en.pdf).

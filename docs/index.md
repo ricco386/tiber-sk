@@ -1,13 +1,11 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # TIBER
 
-Zvýšte svoju kybernetickú odolnosť pomocou TIBER
+TIBER je skratka pre anglický výraz **"Threat Intelligence-Based Ethical Red Teaming"**. Do slovenského jazyka by to môžeme preložiť ako Etický Red Tíming založený na spravodajstve o hrozbách.
 
-Rámec pre red teaming na základe spravodajských informácií o hrozbách implementovaný vo viac ako 16 krajinách
-
-## Čo je rámec TIBER?
-
-Rámec TIBER poskytuje štruktúrovaný proces na vykonávanie riadených kybernetických útokov na živé systémy životne dôležitej infraštruktúry na základe spravodajských informácií o hrozbách. Cieľom je zvýšiť kybernetickú odolnosť organizácií a ich sektora ako celku.
-
-## Prečo by ste mali implementovať TIBER-EU?
-
-Implementácia systému TIBER-EU ako orgánu alebo dozorného orgánu má pre váš sektor množstvo výhod. Zákon o digitálnej prevádzkovej odolnosti (DORA) by nemal byť jediným dôvodom na prijatie tohto rámca na vykonávanie penetračného testovania vedeného hrozbami (TLPT).
+Pomocou spravodajstva o hrozbách testujete najrelevantnejšie hrozby voči vašej organizácii alebo odvetviu a vyhľadávate najrelevantnejšie zraniteľnosti. Tieto zistenia sa neobmedzujú len na technické zistenia. Testy TIBER sa zameriavajú na ľudí, procesy a technológie. Testy TIBER preto napodobňujú skutočné taktiky, techniky a postupy (TTP) skutočných aktérov hrozieb. **Cieľom je učiť sa a zlepšovať, nejde o test, ktorý by bol úspešný alebo neúspešný.**

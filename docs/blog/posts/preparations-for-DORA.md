@@ -5,7 +5,7 @@ tags:
   - DORA
   - NBS
 slug: preparations-for-DORA
-date: 2024-10-01
+date: 2024-05-16
 ---
 # Prípravy na DORA (Digital Operational Resilience Act)
 
