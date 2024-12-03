@@ -1,6 +1,6 @@
-site_name: TIBER na Slovensku
+site_name: Informácie o TIBER, DORA, TLPT a red teamingu.
 site_url: https://tiber.sk
-site_description: "Informácie o TIBER, DORA a TLPT."
+site_description: ""
 
 theme:
     name: 'material'
@@ -56,7 +56,7 @@ markdown_extensions:
 nav:
   - Čo je TIBER-EU?: tiber-eu.md
   - blog: blog/index.md
-  - O nás: o_nás.md 
+  - O nás: o_nás.md
 
 
 plugins:
@@ -82,7 +82,7 @@ extra:
 #      link: /
 #      lang: sk
 #    - name: English
-#      link: /en/ 
+#      link: /en/
 #      lang: en
 
 extra_javascript:
